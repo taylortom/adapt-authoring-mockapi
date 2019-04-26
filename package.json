@@ -1,0 +1,9 @@
+{
+  "name": "adapt-authoring-mockapi",
+  "version": "0.0.1",
+  "description": "Mock for the existing adapt_authoring API",
+  "main": "index.js",
+  "adapt_authoring": {
+    "module": true
+  }
+}
